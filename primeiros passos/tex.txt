@@ -1,0 +1,15 @@
+https://www.w3schools.com/html/html_styles.asp
+Estilos HTML
+
+
+Links HTML - O atributo de destino
+Por padrão, a página vinculada será exibida na janela atual do navegador. Para alterar isso, você deve especificar outro destino para o link.
+
+O targetatributo especifica onde abrir o documento vinculado.
+
+O targetatributo pode ter um dos seguintes valores:
+
+_self- Padrão. Abre o documento na mesma janela / guia em que foi clicado
+_blank - Abre o documento em uma nova janela ou guia
+_parent - Abre o documento no quadro pai
+_top - Abre o documento no corpo inteiro da janela
